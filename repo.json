@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "id": "io.unom.punktfunk.client-webos",
+      "id": "net.botworth.vizman",
       "title": "viz-man",
       "shortDescription": "<p>A full-screen MilkDrop visualizer for <a href=\"https://music-assistant.io/\">Music Assistant</a>.</p>",
       "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/viz-man/main/description.html",
